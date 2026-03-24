@@ -5,7 +5,7 @@ import { Route, Routes, useLocation } from 'react-router-dom'
 
 import Cars from './pages/Cars'
 import MyBookings from './pages/MyBookings'
-import Home from './pages/home'
+import Home from './pages/Home'
 import Layout from './pages/Owner/Layout'
 import Dashboard from './pages/Owner/Dashboard'
 import AddCar from './pages/Owner/AddCar'
